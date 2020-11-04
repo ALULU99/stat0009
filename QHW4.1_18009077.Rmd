@@ -110,4 +110,4 @@ F[1]*F[2]
 
 
 #   Version: `r format(Sys.time(), '%d %B %Y')`
-  * [Rmd Source](https://github.com/DannyZhang99/stat0009/QHW4.1_18009077.Rmd)
+  * [Rmd Source](https://github.com/DannyZhang99/stat0009/edit/main/QHW4.1_18009077.Rmd)
